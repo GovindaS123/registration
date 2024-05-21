@@ -1,0 +1,42 @@
+.navbar{
+   box-shadow:1px 1px 5px black;
+   padding:5px;
+   font-style: italic;
+}
+ .navbar .navbar-brand{
+    font-size: 21px;
+    color: white;
+ }
+ .navbar .navbar-brand:hover{
+    font-size: 21px;
+    color: orange;
+
+ }
+ .navbar-inverse .navbar-nav>li>a{
+    color:yellow;
+    font-size: 15px;
+ }
+
+ 
+ .color{
+    background-color: lightgreen;
+    border-color: aqua;
+}
+h1{
+	position:absolute;
+	top:20%;
+	left:50%;	
+	transform:translate(-50%,-50%);
+   text-align: center;
+}
+.well{
+   box-shadow: 5px 5px 25px 0px black;
+}
+img{
+   height: 300px;
+   width: 300px;
+   margin: 0px auto;
+   margin-top: 250px;
+   margin-right:0px ;
+   margin-left:150px  ;
+}
